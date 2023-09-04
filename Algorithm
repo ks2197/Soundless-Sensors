@@ -1,0 +1,11 @@
+I am working on a simple algorithm to identify correlations between the range of each
+LIGO detector and thousands of LIGO’s auxiliary channels, based on Spearman and
+Pearson correlation coefficients. The inputs to this algorithm are the binary neutron
+star range of LIGO, sampled once per minute, and minute trends of all or a subset
+of LIGO’s auxiliary channels. It calculates the Spearman and Pearson correlation
+coefficient between each auxiliary channel and the range, and then produces a webpage
+that ranks the channels by their highest overall correlation coefficient. For each channel,
+it also provides graphs such as time series overlays and correlation scatter plots. This
+algorithm, though very simple, is capable of identifying groups of channels that are
+related to the sensitivity fluctuations of LIGO.
+
