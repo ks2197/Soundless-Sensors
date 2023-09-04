@@ -1,5 +1,5 @@
 
-# Identifying and removing the sources of noise that limit LIGO’s range enables higher signal-to-noise observations and increases the number of observations
+# Identifying and removing the sources of noise that limit LIGO’s range which enables higher signal-to-noise observations and increases the number of observations
 
 Operating the LIGO detectors at the sensitivity needed for gravitaional-wave detection requires a large 
 number of control loops and sensors to precisely control and monitor the instrumentaƟon and 
